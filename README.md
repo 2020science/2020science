@@ -8,7 +8,7 @@ Most of my work appears elsewhere but this is my "digital playground" where I oc
 
 ## What I'm building here
 
-**[spoileralert.wtf](https://spoileralert.wtf)** — An experiment in AI-legible publishing and AI-augmented "living books." I transformed my book *Films from the Future* into a "living book" — 370+ structured markdown files coordinated through an [llms.txt](https://spoileralert.wtf/llms.txt) file that lets AI systems interactively explore the book's ideas with users. Paste a prompt, start a conversation.
+**[spoileralert.wtf]([https://spoileralert.wtf](https://github.com/2020science/spoileralert-wtf))** — An experiment in AI-legible publishing and AI-augmented "living books." I transformed my book *Films from the Future* into a "living book" — 370+ structured markdown files coordinated through an [llms.txt](https://spoileralert.wtf/llms.txt) file that lets AI systems interactively explore the book's ideas with users. Paste a prompt, start a conversation.
 
 **[XENOPS](https://github.com/2020science/XENOPS)** — A scenario-based framework for probing how AI models handle high-stakes ethical dilemmas, including the temptation to rewrite their own operating constraints.
 
